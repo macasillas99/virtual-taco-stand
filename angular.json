@@ -5,13 +5,7 @@
   "projects": {
     "virtual-taco-stand": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:component": {
-          "inlineTemplate": true,
-          "style": "none",
-          "type": "component"
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
